@@ -35,7 +35,6 @@ export default function BirthdaySurpriseMahi() {
     return () => clearTimeout(curtainTimer);
   }, []);
 
-  /* ⏱ COUNTDOWN LOGIC */
   useEffect(() => {
     if (!openCurtain) return;
 
