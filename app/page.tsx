@@ -52,7 +52,7 @@ export default function BirthdaySurpriseMahi() {
 
   return (
     <main className="relative min-h-screen overflow-hidden flex items-center justify-center bg-black">
-      {/* 🌸 BACKGROUND */}
+     
       <img
         src="https://images.unsplash.com/photo-1517841905240-472988babdf9"
         className="absolute inset-0 w-full h-full object-cover opacity-30"
