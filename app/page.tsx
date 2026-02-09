@@ -11,7 +11,7 @@ export default function BirthdaySurpriseMahi() {
 
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  /* 🎉 CELEBRATION FUNCTION */
+  
   const startCelebration = () => {
     setCelebrate(true);
 
