@@ -57,14 +57,10 @@ export default function BirthdaySurpriseMahi() {
         src="https://images.unsplash.com/photo-1517841905240-472988babdf9"
         className="absolute inset-0 w-full h-full object-cover opacity-30"
         alt=""
-      />
-
-      {/* 🎵 SONG */}
+      />      
       <audio ref={audioRef}>
         <source src="/song.mp3" type="audio/mpeg" />
-      </audio>
-
-      {/* 🎀 CURTAINS */}
+      </audio>      
       <div
         className={`absolute top-0 left-0 h-full w-1/2 bg-pink-500 ${
           openCurtain ? "animate-curtainLeft" : ""
