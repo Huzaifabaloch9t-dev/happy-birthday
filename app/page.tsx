@@ -112,7 +112,6 @@ export default function BirthdaySurpriseMahi() {
             ))}
           </div>
 
-          {/* RIGHT */}
           <div className="absolute right-0 top-0 h-full w-32">
             {Array.from({ length: 8 }).map((_, i) => (
               <span
