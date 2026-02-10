@@ -161,7 +161,6 @@ export default function BirthdaySurpriseMahi() {
         </div>
       )}
 
-      {/* 🎂 MAIN MESSAGE */}
       {celebrate && !showDua && (
         <div className="relative z-20 text-center bg-white/20 backdrop-blur-xl p-8 rounded-3xl border border-white/30 shadow-2xl animate-zoomIn">
           <h1 className="text-5xl font-extrabold text-pink-700 animate-heartbeat">
