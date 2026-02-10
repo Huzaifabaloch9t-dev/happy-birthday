@@ -81,7 +81,6 @@ export default function BirthdaySurpriseMahi() {
         </div>
       )}
 
-      {/* 🎆 SIDE DECORATIONS */}
       {celebrate && mounted && (
         <div className="absolute inset-0 pointer-events-none z-10">
           {/* LEFT */}
