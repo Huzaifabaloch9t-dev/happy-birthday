@@ -72,7 +72,6 @@ export default function BirthdaySurpriseMahi() {
         }`}
       />
 
-      {/* ⏱ COUNTDOWN */}
       {!celebrate && openCurtain && (
         <div className="relative z-20 text-center animate-zoomIn">
           <h1 className="text-[120px] font-extrabold text-white drop-shadow-lg animate-heartbeat">
