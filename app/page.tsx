@@ -175,7 +175,6 @@ export default function BirthdaySurpriseMahi() {
         </div>
       )}
 
-      {/* 🤲 DUA (ABOUT YOU) */}
       {showDua && (
         <>
           <div className="absolute inset-0 bg-black/50 backdrop-blur-sm z-10" />
