@@ -194,7 +194,6 @@ export default function BirthdaySurpriseMahi() {
         </>
       )}
 
-      {/* 🎨 CSS */}
       <style jsx>{`
         .animate-curtainLeft {
           animation: curtainLeft 1.2s forwards;
