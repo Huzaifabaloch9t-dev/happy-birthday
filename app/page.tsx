@@ -143,7 +143,6 @@ export default function BirthdaySurpriseMahi() {
         </div>
       )}
 
-      {/* 🎈 CENTER BALLOONS */}
       {celebrate && mounted && (
         <div className="absolute inset-0 pointer-events-none z-10">
           {Array.from({ length: 6 }).map((_, i) => (
