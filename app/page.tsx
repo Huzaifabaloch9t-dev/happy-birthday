@@ -83,7 +83,7 @@ export default function BirthdaySurpriseMahi() {
 
       {celebrate && mounted && (
         <div className="absolute inset-0 pointer-events-none z-10">
-          {/* LEFT */}
+         
           <div className="absolute left-0 top-0 h-full w-32">
             {Array.from({ length: 8 }).map((_, i) => (
               <span
